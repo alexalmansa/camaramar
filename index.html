@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Surfcheck | Regional Camera Compare</title>
+  <meta name="description" content="Choose a coastal region and compare all webcams in that area at once.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Sora:wght@400;500;600;700;800&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+    crossorigin=""
+  >
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <div class="page-bg"></div>
+
+  <header class="hero shell">
+    <p class="kicker">Regional Spot Comparison</p>
+    <h1>surfcheck</h1>
+    <p class="subtitle">
+      Pick a region, then compare all cameras from that region on one screen to decide where to go.
+    </p>
+    <div class="hero-meta">
+      <span id="camera-count">0 cameras</span>
+      <span id="live-count">0 playable</span>
+      <span id="external-count">0 external</span>
+      <span id="region-count">0 regions</span>
+      <span id="area-count">0 areas</span>
+      <span class="stamp">Updated: 2026-03-04</span>
+    </div>
+  </header>
+
+  <main class="shell flow-layout">
+    <section id="region-step" class="step is-active">
+      <div class="step-head">
+        <h2>Choose Region</h2>
+        <p>Select where you want to surf and open all cameras there in one board.</p>
+      </div>
+      <div id="region-grid" class="region-grid"></div>
+    </section>
+
+    <section id="compare-step" class="step">
+      <div class="compare-top">
+        <button id="back-regions" type="button" class="ghost-btn">Back to regions</button>
+        <div class="compare-top-meta">
+          <p class="kicker">Now Viewing</p>
+          <h2 id="compare-region-name"></h2>
+          <p id="compare-meta"></p>
+        </div>
+      </div>
+
+      <section class="map-panel">
+        <div class="map-head">
+          <h3>Camera map</h3>
+          <p id="map-meta">0 markers</p>
+        </div>
+        <div id="region-map" class="region-map" aria-label="Region camera map"></div>
+      </section>
+
+      <section class="controls">
+        <div id="area-filters" class="chip-row"></div>
+        <label class="search">
+          <span>Search spots</span>
+          <input id="compare-search" type="search" placeholder="Spot, beach, port, provider...">
+        </label>
+        <div id="status-filters" class="chip-row">
+          <button type="button" data-filter="all" class="is-active">All</button>
+          <button type="button" data-filter="live">Playable</button>
+          <button type="button" data-filter="external">External</button>
+        </div>
+        <div id="origin-filters" class="chip-row">
+          <button type="button" data-origin="all" class="is-active">All Sources</button>
+          <button type="button" data-origin="ports-catalonia">Catalonia Ports</button>
+          <button type="button" data-origin="camaramar">Camaramar</button>
+          <button type="button" data-origin="windy-root">Windy Root</button>
+          <button type="button" data-origin="skylinewebcams">Skyline</button>
+        </div>
+      </section>
+
+      <p id="camera-empty" class="camera-empty" hidden>No cameras match your current filters.</p>
+      <section id="camera-grid" class="camera-grid"></section>
+    </section>
+  </main>
+
+  <script src="https://cdn.jsdelivr.net/npm/hls.js@1.5.18/dist/hls.min.js"></script>
+  <script src="https://cdn.dashjs.org/latest/dash.all.min.js"></script>
+  <script
+    src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+    integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+    crossorigin=""
+  ></script>
+  <script type="module" src="./app.js"></script>
+</body>
+</html>

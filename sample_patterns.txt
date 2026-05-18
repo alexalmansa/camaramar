@@ -1,0 +1,180 @@
+===== https://www.camaramar.com/webcam/a-gabeira-playa-de-baleo =====
+
+===== https://www.camaramar.com/webcam/a-gandara-playa-de-larino =====
+653:                src="/images/out-of-service.webp"
+
+===== https://www.camaramar.com/webcam/afife-afife =====
+
+===== https://www.camaramar.com/webcam/aguas-blancas =====
+
+===== https://www.camaramar.com/webcam/aguilas-max-point =====
+
+===== https://www.camaramar.com/webcam/aguilas-playa-piojo =====
+
+===== https://www.camaramar.com/webcam/aizarnazabal-cuenca-drenante-urola-aizarnazabal =====
+
+===== https://www.camaramar.com/webcam/alacant-la-calita =====
+
+===== https://www.camaramar.com/webcam/alacant-la-placa =====
+
+===== https://www.camaramar.com/webcam/alacant-la-punta =====
+
+===== https://www.camaramar.com/webcam/alaior-cala-de-llucalari =====
+415:                src="/images/out-of-service.webp"
+444:                src="/images/out-of-service.webp"
+473:                src="/images/out-of-service.webp"
+589:                src="/images/out-of-service.webp"
+
+===== https://www.camaramar.com/webcam/alaior-cales-coves =====
+415:                src="/images/out-of-service.webp"
+444:                src="/images/out-of-service.webp"
+473:                src="/images/out-of-service.webp"
+589:                src="/images/out-of-service.webp"
+
+===== https://www.camaramar.com/webcam/alaior-talis =====
+415:                src="/images/out-of-service.webp"
+444:                src="/images/out-of-service.webp"
+473:                src="/images/out-of-service.webp"
+589:                src="/images/out-of-service.webp"
+
+===== https://www.camaramar.com/webcam/alboraya-port-saplaya =====
+268:                            <figure wire:id="pEbb0YMJgdpjhONAMQNy" wire:initial-data="{&quot;fingerprint&quot;:{&quot;id&quot;:&quot;pEbb0YMJgdpjhONAMQNy&quot;,&quot;name&quot;:&quot;webcam-video&quot;,&quot;locale&quot;:&quot;es&quot;,&quot;path&quot;:&quot;webcam\/alboraya-port-saplaya&quot;,&quot;method&quot;:&quot;GET&quot;,&quot;v&quot;:&quot;acj&quot;},&quot;effects&quot;:{&quot;listeners&quot;:[&quot;render&quot;]},&quot;serverMemo&quot;:{&quot;children&quot;:[],&quot;errors&quot;:[],&quot;htmlHash&quot;:&quot;826bea64&quot;,&quot;data&quot;:{&quot;webcam&quot;:[],&quot;init_time&quot;:1772556514,&quot;iframe&quot;:false},&quot;dataMeta&quot;:{&quot;models&quot;:{&quot;webcam&quot;:{&quot;class&quot;:&quot;App\\Models\\Webcam\\Webcam&quot;,&quot;id&quot;:1009,&quot;relations&quot;:[],&quot;connection&quot;:&quot;mysql&quot;,&quot;collectionClass&quot;:null}}},&quot;checksum&quot;:&quot;e700eaaa505f92272c379af0c1c3964027e89b3f5e5a38a9eba5af4234f12795&quot;}}">
+276: <video id="videoPlayer" controls autoplay></video>
+277: <script src="https://cdn.dashjs.org/latest/dash.all.min.js"></script>
+279:    const url = "https://streaming.comunitatvalenciana.com/webcam/AlborayaPortSaplaya/manifest.mpd";
+280:    const video = document.querySelector("#videoPlayer");
+281:    const player = dashjs.MediaPlayer().create();
+723:                src="/images/out-of-service.webp"
+
+===== https://www.camaramar.com/webcam/albufeira-praia-albufeira =====
+
+===== https://www.camaramar.com/webcam/alcaufar-cala-alcalfar =====
+415:                src="/images/out-of-service.webp"
+444:                src="/images/out-of-service.webp"
+473:                src="/images/out-of-service.webp"
+589:                src="/images/out-of-service.webp"
+
+===== https://www.camaramar.com/webcam/alcaufar-calo-roig =====
+415:                src="/images/out-of-service.webp"
+444:                src="/images/out-of-service.webp"
+473:                src="/images/out-of-service.webp"
+589:                src="/images/out-of-service.webp"
+
+===== https://www.camaramar.com/webcam/alcudia-cala-punset =====
+415:                src="/images/out-of-service.webp"
+444:                src="/images/out-of-service.webp"
+473:                src="/images/out-of-service.webp"
+589:                src="/images/out-of-service.webp"
+
+===== https://www.camaramar.com/webcam/alcudia-can-cap-de-bou =====
+415:                src="/images/out-of-service.webp"
+444:                src="/images/out-of-service.webp"
+473:                src="/images/out-of-service.webp"
+589:                src="/images/out-of-service.webp"
+
+===== https://www.camaramar.com/webcam/alcudia-coll-baix =====
+415:                src="/images/out-of-service.webp"
+444:                src="/images/out-of-service.webp"
+473:                src="/images/out-of-service.webp"
+589:                src="/images/out-of-service.webp"
+
+===== https://www.camaramar.com/webcam/alcudia-el-niu-de-saguila =====
+415:                src="/images/out-of-service.webp"
+444:                src="/images/out-of-service.webp"
+473:                src="/images/out-of-service.webp"
+589:                src="/images/out-of-service.webp"
+
+===== https://www.camaramar.com/webcam/alcudia-es-farayo =====
+415:                src="/images/out-of-service.webp"
+444:                src="/images/out-of-service.webp"
+473:                src="/images/out-of-service.webp"
+589:                src="/images/out-of-service.webp"
+
+===== https://www.camaramar.com/webcam/alcudia-lestrella =====
+415:                src="/images/out-of-service.webp"
+444:                src="/images/out-of-service.webp"
+473:                src="/images/out-of-service.webp"
+589:                src="/images/out-of-service.webp"
+
+===== https://www.camaramar.com/webcam/alcudia-platja-de-alcudia =====
+415:                src="/images/out-of-service.webp"
+444:                src="/images/out-of-service.webp"
+473:                src="/images/out-of-service.webp"
+589:                src="/images/out-of-service.webp"
+
+===== https://www.camaramar.com/webcam/alcudia-platja-de-sant-juan =====
+415:                src="/images/out-of-service.webp"
+444:                src="/images/out-of-service.webp"
+473:                src="/images/out-of-service.webp"
+589:                src="/images/out-of-service.webp"
+
+===== https://www.camaramar.com/webcam/alcudia-platja-dels-cecs =====
+415:                src="/images/out-of-service.webp"
+444:                src="/images/out-of-service.webp"
+473:                src="/images/out-of-service.webp"
+589:                src="/images/out-of-service.webp"
+
+===== https://www.camaramar.com/webcam/alcudia-platja-des-morer-vermell =====
+415:                src="/images/out-of-service.webp"
+444:                src="/images/out-of-service.webp"
+473:                src="/images/out-of-service.webp"
+589:                src="/images/out-of-service.webp"
+
+===== https://www.camaramar.com/webcam/alcudia-platja-sa-marina =====
+415:                src="/images/out-of-service.webp"
+444:                src="/images/out-of-service.webp"
+473:                src="/images/out-of-service.webp"
+589:                src="/images/out-of-service.webp"
+
+===== https://www.camaramar.com/webcam/alcudia-pltjua-de-lalcanada =====
+415:                src="/images/out-of-service.webp"
+444:                src="/images/out-of-service.webp"
+473:                src="/images/out-of-service.webp"
+589:                src="/images/out-of-service.webp"
+
+===== https://www.camaramar.com/webcam/alcudia-raco-de-ses-barreres-de-sa-comuna =====
+415:                src="/images/out-of-service.webp"
+444:                src="/images/out-of-service.webp"
+473:                src="/images/out-of-service.webp"
+589:                src="/images/out-of-service.webp"
+
+===== https://www.camaramar.com/webcam/alcudia-sa-ferradura =====
+415:                src="/images/out-of-service.webp"
+444:                src="/images/out-of-service.webp"
+473:                src="/images/out-of-service.webp"
+589:                src="/images/out-of-service.webp"
+
+===== https://www.camaramar.com/webcam/alcudia-sa-punta-de-sa-vinya =====
+415:                src="/images/out-of-service.webp"
+444:                src="/images/out-of-service.webp"
+473:                src="/images/out-of-service.webp"
+589:                src="/images/out-of-service.webp"
+
+===== https://www.camaramar.com/webcam/alcudia-sa-punta-llarga =====
+415:                src="/images/out-of-service.webp"
+444:                src="/images/out-of-service.webp"
+473:                src="/images/out-of-service.webp"
+589:                src="/images/out-of-service.webp"
+
+===== https://www.camaramar.com/webcam/alcudia-ses-pedreres =====
+415:                src="/images/out-of-service.webp"
+444:                src="/images/out-of-service.webp"
+473:                src="/images/out-of-service.webp"
+589:                src="/images/out-of-service.webp"
+
+===== https://www.camaramar.com/webcam/alcudia-sillot =====
+415:                src="/images/out-of-service.webp"
+444:                src="/images/out-of-service.webp"
+473:                src="/images/out-of-service.webp"
+589:                src="/images/out-of-service.webp"
+
+===== https://www.camaramar.com/webcam/aljezur-arrifana =====
+
+===== https://www.camaramar.com/webcam/almancil-julias =====
+
+===== https://www.camaramar.com/webcam/almancil-vale-de-lobo =====
+
+===== https://www.camaramar.com/webcam/almeria-pico-de-la-pipa =====
+
+===== https://www.camaramar.com/webcam/almeria-pico-de-las-conchas =====
+

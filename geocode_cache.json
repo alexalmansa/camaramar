@@ -1,0 +1,2012 @@
+{
+  "es|a g ndara": {
+    "lat": 43.49174,
+    "lng": -8.20065,
+    "q": "A Gándara"
+  },
+  "es|guilas": {
+    "lat": 37.4063,
+    "lng": -1.58289,
+    "q": "Águilas"
+  },
+  "es|aizarnazabal": {
+    "lat": 43.25591,
+    "lng": -2.23607,
+    "q": "Aizarnazabal"
+  },
+  "es|alaior": {
+    "lat": 39.93034,
+    "lng": 4.14039,
+    "q": "Alaior"
+  },
+  "pt|albufeira": {
+    "lat": 37.08819,
+    "lng": -8.2503,
+    "q": "Albufeira"
+  },
+  "es|alc dia": {
+    "lat": 39.85316,
+    "lng": 3.12138,
+    "q": "Alcúdia"
+  },
+  "es|almer a": {
+    "lat": 36.83814,
+    "lng": -2.45974,
+    "q": "Almería"
+  },
+  "es|almonte": {
+    "lat": 37.2647,
+    "lng": -6.51667,
+    "q": "Almonte"
+  },
+  "es|altura": {
+    "lat": 39.85,
+    "lng": -0.51667,
+    "q": "Altura"
+  },
+  "es|andratx": {
+    "lat": 39.57553,
+    "lng": 2.42017,
+    "q": "Andratx"
+  },
+  "es|ares": {
+    "lat": 43.42995,
+    "lng": -8.24254,
+    "q": "Ares"
+  },
+  "es|arnao": {
+    "lat": 43.57554,
+    "lng": -5.97992,
+    "q": "Arnao, Spain"
+  },
+  "es|art": {
+    "lat": 39.69315,
+    "lng": 3.34979,
+    "q": "Artà, Spain"
+  },
+  "es|avil s": {
+    "lat": 43.55473,
+    "lng": -5.92483,
+    "q": "Avilés, Spain"
+  },
+  "es|bakio": {
+    "lat": 43.42917,
+    "lng": -2.80881,
+    "q": "Bakio, Spain"
+  },
+  "es|banyalbufar": {
+    "lat": 39.68734,
+    "lng": 2.51409,
+    "q": "Banyalbufar, Spain"
+  },
+  "es|barbate": {
+    "lat": 36.19237,
+    "lng": -5.92186,
+    "q": "Barbate, Spain"
+  },
+  "es|bareyo": {
+    "lat": 43.46686,
+    "lng": -3.60083,
+    "q": "Bareyo, Spain"
+  },
+  "es|barreiros": {
+    "lat": 43.53321,
+    "lng": -7.23342,
+    "q": "Barreiros, Spain"
+  },
+  "es|benalm dena": {
+    "lat": 36.5961,
+    "lng": -4.57267,
+    "q": "Benalmádena, Spain"
+  },
+  "es|bendinat": {
+    "lat": 39.53493,
+    "lng": 2.57917,
+    "q": "Bendinat, Spain"
+  },
+  "es|biniancolla": {
+    "lat": 39.83744,
+    "lng": 4.2639,
+    "q": "Biniancolla, Spain"
+  },
+  "es|binibequer": {
+    "lat": 39.82291,
+    "lng": 4.23489,
+    "q": "Binibequer, Spain"
+  },
+  "es|burela": {
+    "lat": 43.662,
+    "lng": -7.367,
+    "q": "Burela, Spain"
+  },
+  "es|cabo de palos": {
+    "lat": 37.63298,
+    "lng": -0.6924,
+    "q": "Cabo de Palos, Spain"
+  },
+  "es|c diz": {
+    "lat": 36.52672,
+    "lng": -6.2891,
+    "q": "Cádiz, Spain"
+  },
+  "es|salou": {
+    "lat": 41.07663,
+    "lng": 1.14163,
+    "q": "Salou, Spain"
+  },
+  "es|cala en porter": {
+    "lat": 39.8731,
+    "lng": 4.133,
+    "q": "Cala en Porter, Spain"
+  },
+  "es|cala fornells": {
+    "lat": 39.53936,
+    "lng": 2.41334,
+    "q": "Cala Fornells, Spain"
+  },
+  "es|cala llonga": {
+    "lat": 38.9534,
+    "lng": 1.5206,
+    "q": "Cala Llonga, Spain"
+  },
+  "es|cala mesquida": {
+    "lat": 39.74475,
+    "lng": 3.42997,
+    "q": "Cala Mesquida, Spain"
+  },
+  "es|cala morell": {
+    "lat": 40.0525,
+    "lng": 3.8851,
+    "q": "Cala Morell, Spain"
+  },
+  "es|cala pi": {
+    "lat": 39.36629,
+    "lng": 2.84855,
+    "q": "Cala Pi, Spain"
+  },
+  "es|cala ratjada": {
+    "lat": 39.71174,
+    "lng": 3.4631,
+    "q": "Cala Ratjada, Spain"
+  },
+  "es|cala santany": {
+    "lat": 39.33005,
+    "lng": 3.14552,
+    "q": "Cala Santanyí, Spain"
+  },
+  "es|cales de mallorca": {
+    "lat": 39.46524,
+    "lng": 3.2754,
+    "q": "Cales de Mallorca, Spain"
+  },
+  "es|callosa d en sarri": {
+    "lat": 38.65,
+    "lng": -0.11667,
+    "q": "Callosa d'en Sarrià, Spain"
+  },
+  "es|calvi": {
+    "lat": 39.5657,
+    "lng": 2.50621,
+    "q": "Calvià, Spain"
+  },
+  "es|camari as": {
+    "lat": 43.13115,
+    "lng": -9.18172,
+    "q": "Camariñas, Spain"
+  },
+  "es|campos": {
+    "lat": 39.43099,
+    "lng": 3.01935,
+    "q": "Campos, Spain"
+  },
+  "es|can pastilla": {
+    "lat": 39.53615,
+    "lng": 2.71766,
+    "q": "Can Pastilla, Spain"
+  },
+  "es|can picafort": {
+    "lat": 39.76567,
+    "lng": 3.15488,
+    "q": "Can Picafort, Spain"
+  },
+  "es|canyamel": {
+    "lat": 39.65857,
+    "lng": 3.43924,
+    "q": "Canyamel, Spain"
+  },
+  "es|cap martinet": {
+    "lat": 38.91863,
+    "lng": 1.46026,
+    "q": "Cap Martinet, Spain"
+  },
+  "es|capdepera": {
+    "lat": 39.70237,
+    "lng": 3.43532,
+    "q": "Capdepera, Spain"
+  },
+  "es|cari o": {
+    "lat": 43.74134,
+    "lng": -7.86715,
+    "q": "Cariño, Spain"
+  },
+  "es|cas catal": {
+    "lat": 39.54711,
+    "lng": 2.59614,
+    "q": "Cas Català, Spain"
+  },
+  "pt|cascais": {
+    "lat": 38.69681,
+    "lng": -9.42147,
+    "q": "Cascais, Portugal"
+  },
+  "es|castro urdiales": {
+    "lat": 43.38285,
+    "lng": -3.22043,
+    "q": "Castro Urdiales, Spain"
+  },
+  "es|castropol": {
+    "lat": 43.52777,
+    "lng": -7.03048,
+    "q": "Castropol, Spain"
+  },
+  "es|el masnou": {
+    "lat": 41.47978,
+    "lng": 2.3188,
+    "q": "el Masnou, Spain"
+  },
+  "es|chiclana de la frontera": {
+    "lat": 36.41976,
+    "lng": -6.14367,
+    "q": "Chiclana de la Frontera, Spain"
+  },
+  "es|chipiona": {
+    "lat": 36.73663,
+    "lng": -6.43703,
+    "q": "Chipiona, Spain"
+  },
+  "es|c breces": {
+    "lat": 43.38745,
+    "lng": -4.21361,
+    "q": "Cóbreces, Spain"
+  },
+  "es|col nia de sant jordi": {
+    "lat": 39.3181,
+    "lng": 2.99197,
+    "q": "Colònia de Sant Jordi, Spain"
+  },
+  "es|colonia de sant pere": {
+    "lat": 39.73755,
+    "lng": 3.2768,
+    "q": "Colonia de Sant Pere, Spain"
+  },
+  "es|colunga": {
+    "lat": 43.48531,
+    "lng": -5.27009,
+    "q": "Colunga, Spain"
+  },
+  "es|el campello": {
+    "lat": 38.42885,
+    "lng": -0.39774,
+    "q": "el Campello, Spain"
+  },
+  "es|corcubi n": {
+    "lat": 42.94414,
+    "lng": -9.1926,
+    "q": "Corcubión, Spain"
+  },
+  "es|costa de la calma": {
+    "lat": 39.52576,
+    "lng": 2.48137,
+    "q": "Costa de la Calma, Spain"
+  },
+  "es|cudillero": {
+    "lat": 43.56217,
+    "lng": -6.14589,
+    "q": "Cudillero, Spain"
+  },
+  "es|cullera": {
+    "lat": 39.16667,
+    "lng": -0.25,
+    "q": "Cullera, Spain"
+  },
+  "es|dei": {
+    "lat": 39.74806,
+    "lng": 2.64823,
+    "q": "Deià, Spain"
+  },
+  "es|donostia": {
+    "lat": 43.31283,
+    "lng": -1.97499,
+    "q": "Donostia, Spain"
+  },
+  "es|eivissa": {
+    "lat": 38.93057,
+    "lng": 1.36265,
+    "q": "Eivissa, Spain"
+  },
+  "es|el ejido": {
+    "lat": 36.77629,
+    "lng": -2.81456,
+    "q": "El Ejido, Spain"
+  },
+  "es|el puerto de santa mar a": {
+    "lat": 36.59389,
+    "lng": -6.23298,
+    "q": "El Puerto de Santa María, Spain"
+  },
+  "es|el toro": {
+    "lat": 39.48477,
+    "lng": 2.48222,
+    "q": "El Toro, Spain"
+  },
+  "es|elexalde": {
+    "lat": 43.15,
+    "lng": -2.93333,
+    "q": "Elexalde, Spain"
+  },
+  "es|elg ibar": {
+    "lat": 43.21601,
+    "lng": -2.41334,
+    "q": "Elgóibar, Spain"
+  },
+  "es|es cal": {
+    "lat": 38.6772,
+    "lng": 1.51628,
+    "q": "Es Caló, Spain"
+  },
+  "es|es camp de mar": {
+    "lat": 39.53827,
+    "lng": 2.42386,
+    "q": "Es Camp de Mar, Spain"
+  },
+  "es|es canutells": {
+    "lat": 39.8519,
+    "lng": 4.1728,
+    "q": "Es Canutells, Spain"
+  },
+  "es|es cubells": {
+    "lat": 38.88108,
+    "lng": 1.27235,
+    "q": "Es Cubells, Spain"
+  },
+  "es|es migjorn gran": {
+    "lat": 39.94657,
+    "lng": 4.05121,
+    "q": "Es Migjorn Gran, Spain"
+  },
+  "es|es pujols": {
+    "lat": 38.72205,
+    "lng": 1.45715,
+    "q": "Es Pujols, Spain"
+  },
+  "es|escorca": {
+    "lat": 39.82138,
+    "lng": 2.86941,
+    "q": "Escorca, Spain"
+  },
+  "es|esposende": {
+    "lat": 42.31667,
+    "lng": -8.1,
+    "q": "Esposende, Spain"
+  },
+  "es|estellencs": {
+    "lat": 39.65338,
+    "lng": 2.4813,
+    "q": "Estellencs, Spain"
+  },
+  "es|getaria": {
+    "lat": 43.30326,
+    "lng": -2.20444,
+    "q": "Getaria, Spain"
+  },
+  "es|hondarribia": {
+    "lat": 43.36859,
+    "lng": -1.79622,
+    "q": "Hondarribia, Spain"
+  },
+  "es|orio": {
+    "lat": 43.2787,
+    "lng": -2.12537,
+    "q": "Orio, Spain"
+  },
+  "es|saturraran": {
+    "lat": 43.32045,
+    "lng": -2.41017,
+    "q": "Saturraran, Spain"
+  },
+  "es|zarautz": {
+    "lat": 43.28444,
+    "lng": -2.16992,
+    "q": "Zarautz, Spain"
+  },
+  "es|faro de cullera": {
+    "lat": 39.18625,
+    "lng": -0.21947,
+    "q": "Faro de Cullera, Spain"
+  },
+  "es|faro": {
+    "lat": 42.86269,
+    "lng": -6.59609,
+    "q": "Faro, Spain"
+  },
+  "es|felanitx": {
+    "lat": 39.4696,
+    "lng": 3.14831,
+    "q": "Felanitx, Spain"
+  },
+  "es|ferreries": {
+    "lat": 39.98324,
+    "lng": 4.01181,
+    "q": "Ferreries, Spain"
+  },
+  "es|ferrol": {
+    "lat": 43.48451,
+    "lng": -8.23293,
+    "q": "Ferrol, Spain"
+  },
+  "pt|figueira da foz": {
+    "lat": 40.15085,
+    "lng": -8.86179,
+    "q": "Figueira da Foz, Portugal"
+  },
+  "es|fisterra": {
+    "lat": 42.90492,
+    "lng": -9.26289,
+    "q": "Fisterra, Spain"
+  },
+  "es|font de sa cala": {
+    "lat": 39.67925,
+    "lng": 3.45417,
+    "q": "Font de Sa Cala, Spain"
+  },
+  "es|formentera": {
+    "lat": 38.69467,
+    "lng": 1.46919,
+    "q": "Formentera, Spain"
+  },
+  "es|foz": {
+    "lat": 43.5692,
+    "lng": -7.25441,
+    "q": "Foz, Spain"
+  },
+  "es|fuengirola": {
+    "lat": 36.53998,
+    "lng": -4.62473,
+    "q": "Fuengirola, Spain"
+  },
+  "es|barra an": {
+    "lat": 43.3,
+    "lng": -8.53333,
+    "q": "Barrañan, Spain"
+  },
+  "es|razo": {
+    "lat": 43.28333,
+    "lng": -8.71667,
+    "q": "Razo, Spain"
+  },
+  "es|baiona": {
+    "lat": 42.11667,
+    "lng": -8.85,
+    "q": "Baiona, Spain"
+  },
+  "es|getxo": {
+    "lat": 43.35689,
+    "lng": -3.01146,
+    "q": "Getxo, Spain"
+  },
+  "es|gij n": {
+    "lat": 43.53573,
+    "lng": -5.66152,
+    "q": "Gijón, Spain"
+  },
+  "es|hernani": {
+    "lat": 43.26615,
+    "lng": -1.97615,
+    "q": "Hernani, Spain"
+  },
+  "es|ibarrangelu": {
+    "lat": 43.39027,
+    "lng": -2.63423,
+    "q": "Ibarrangelu, Spain"
+  },
+  "es|ibiza": {
+    "lat": 38.90883,
+    "lng": 1.43296,
+    "q": "Ibiza, Spain"
+  },
+  "es|illa de arousa": {
+    "lat": 42.56376,
+    "lng": -8.87258,
+    "q": "Illa de Arousa, Spain"
+  },
+  "es|la coru a": {
+    "lat": 43.37135,
+    "lng": -8.396,
+    "q": "La Coruña, Spain"
+  },
+  "pt|lagoa de albufeira": {
+    "lat": 38.50909,
+    "lng": -9.16663,
+    "q": "Lagoa de Albufeira, Portugal"
+  },
+  "es|lagos": {
+    "lat": 36.7948,
+    "lng": -3.43589,
+    "q": "Lagos, Spain"
+  },
+  "es|laredo": {
+    "lat": 43.4098,
+    "lng": -3.41613,
+    "q": "Laredo, Spain"
+  },
+  "es|laxe": {
+    "lat": 43.22019,
+    "lng": -9.0063,
+    "q": "Laxe, Spain"
+  },
+  "es|llanes": {
+    "lat": 43.41982,
+    "lng": -4.75485,
+    "q": "Llanes, Spain"
+  },
+  "es|llucmajor": {
+    "lat": 39.49093,
+    "lng": 2.89108,
+    "q": "Llucmajor, Spain"
+  },
+  "es|loredo": {
+    "lat": 43.46108,
+    "lng": -3.72033,
+    "q": "Loredo, Spain"
+  },
+  "es|luanco": {
+    "lat": 43.61517,
+    "lng": -5.79344,
+    "q": "Luanco, Spain"
+  },
+  "es|mah n": {
+    "lat": 39.88853,
+    "lng": 4.26583,
+    "q": "Mahón, Spain"
+  },
+  "es|m laga": {
+    "lat": 36.72016,
+    "lng": -4.42034,
+    "q": "Málaga, Spain"
+  },
+  "es|malpica": {
+    "lat": 43.3228,
+    "lng": -8.81052,
+    "q": "Malpica, Spain"
+  },
+  "es|manacor": {
+    "lat": 39.56964,
+    "lng": 3.20955,
+    "q": "Manacor, Spain"
+  },
+  "es|ma": {
+    "lat": 39.88853,
+    "lng": 4.26583,
+    "q": "Maó, Spain"
+  },
+  "es|marbella": {
+    "lat": 36.51543,
+    "lng": -4.88583,
+    "q": "Marbella, Spain"
+  },
+  "es|mazarr n": {
+    "lat": 37.5992,
+    "lng": -1.31493,
+    "q": "Mazarrón, Spain"
+  },
+  "es|miengo": {
+    "lat": 43.42861,
+    "lng": -3.99866,
+    "q": "Miengo, Spain"
+  },
+  "es|motril": {
+    "lat": 36.75066,
+    "lng": -3.5179,
+    "q": "Motril, Spain"
+  },
+  "es|mundaka": {
+    "lat": 43.40804,
+    "lng": -2.69852,
+    "q": "Mundaka, Spain"
+  },
+  "es|muro": {
+    "lat": 39.73661,
+    "lng": 3.05559,
+    "q": "Muro, Spain"
+  },
+  "es|muros de nal n": {
+    "lat": 43.54277,
+    "lng": -6.10348,
+    "q": "Muros de Nalón, Spain"
+  },
+  "es|mutriku": {
+    "lat": 43.30643,
+    "lng": -2.38517,
+    "q": "Mutriku, Spain"
+  },
+  "es|navia": {
+    "lat": 43.53544,
+    "lng": -6.71935,
+    "q": "Navia, Spain"
+  },
+  "pt|nazar": {
+    "lat": 39.60289,
+    "lng": -9.06836,
+    "q": "Nazaré, Portugal"
+  },
+  "es|nigr n": {
+    "lat": 42.14153,
+    "lng": -8.80656,
+    "q": "Nigrán, Spain"
+  },
+  "es|n jar": {
+    "lat": 36.96655,
+    "lng": -2.20595,
+    "q": "Níjar, Spain"
+  },
+  "es|oia": {
+    "lat": 42.0,
+    "lng": -8.86667,
+    "q": "Oia, Spain"
+  },
+  "es|ortigueira": {
+    "lat": 43.55987,
+    "lng": -6.74324,
+    "q": "Ortigueira, Spain"
+  },
+  "es|palma": {
+    "lat": 39.56939,
+    "lng": 2.65024,
+    "q": "Palma, Spain"
+  },
+  "es|palmanova": {
+    "lat": 39.5247,
+    "lng": 2.53922,
+    "q": "Palmanova, Spain"
+  },
+  "es|parede": {
+    "lat": 40.06578,
+    "lng": -2.854,
+    "q": "Parede, Spain"
+  },
+  "es|peguera": {
+    "lat": 39.53751,
+    "lng": 2.44806,
+    "q": "Peguera, Spain"
+  },
+  "es|aguilera": {
+    "lat": 41.48276,
+    "lng": -2.8913,
+    "q": "Aguilera, Spain"
+  },
+  "es|bahinas": {
+    "lat": 43.51667,
+    "lng": -6.41667,
+    "q": "Bahinas, Spain"
+  },
+  "es|ba ugues": {
+    "lat": 43.63333,
+    "lng": -5.81667,
+    "q": "Bañugues, Spain"
+  },
+  "es|torrevieja": {
+    "lat": 37.97872,
+    "lng": -0.68222,
+    "q": "Torrevieja, Spain"
+  },
+  "es|santa maria del mar": {
+    "lat": 28.4253,
+    "lng": -16.30363,
+    "q": "Santa Maria del Mar, Spain"
+  },
+  "es|valdearenas": {
+    "lat": 40.80939,
+    "lng": -2.99218,
+    "q": "Valdearenas, Spain"
+  },
+  "es|plentzia": {
+    "lat": 43.4053,
+    "lng": -2.94794,
+    "q": "Plentzia, Spain"
+  },
+  "es|pollen a": {
+    "lat": 39.87678,
+    "lng": 3.01626,
+    "q": "Pollença, Spain"
+  },
+  "es|ponteceso": {
+    "lat": 43.24326,
+    "lng": -8.90081,
+    "q": "Ponteceso, Spain"
+  },
+  "es|port de sagunt": {
+    "lat": 39.6622,
+    "lng": -0.21749,
+    "q": "Port de Sagunt, Spain"
+  },
+  "es|port des canonge": {
+    "lat": 39.69873,
+    "lng": 2.55509,
+    "q": "Port des Canonge, Spain"
+  },
+  "es|port saplaya": {
+    "lat": 39.50841,
+    "lng": -0.32217,
+    "q": "Port Saplaya, Spain"
+  },
+  "es|portals nous": {
+    "lat": 39.53397,
+    "lng": 2.57029,
+    "q": "Portals Nous, Spain"
+  },
+  "es|portals vells": {
+    "lat": 39.47231,
+    "lng": 2.52007,
+    "q": "Portals Vells, Spain"
+  },
+  "pt|portim o": {
+    "lat": 37.13856,
+    "lng": -8.53775,
+    "q": "Portimão, Portugal"
+  },
+  "es|porto do son": {
+    "lat": 42.72482,
+    "lng": -9.00527,
+    "q": "Porto do Son, Spain"
+  },
+  "es|porto": {
+    "lat": 42.16737,
+    "lng": -6.89934,
+    "q": "Porto, Spain"
+  },
+  "es|portosin": {
+    "lat": 42.75802,
+    "lng": -8.94911,
+    "q": "Portosin, Spain"
+  },
+  "es|ribadeo": {
+    "lat": 43.53704,
+    "lng": -7.04095,
+    "q": "Ribadeo, Spain"
+  },
+  "es|ribadesella": {
+    "lat": 43.46145,
+    "lng": -5.05955,
+    "q": "Ribadesella, Spain"
+  },
+  "es|ribeira": {
+    "lat": 42.73809,
+    "lng": -8.44106,
+    "q": "Ribeira, Spain"
+  },
+  "es|rinlo": {
+    "lat": 43.55627,
+    "lng": -7.10369,
+    "q": "Rinlo, Spain"
+  },
+  "es|roca llisa": {
+    "lat": 38.93171,
+    "lng": 1.49706,
+    "q": "Roca Llisa, Spain"
+  },
+  "es|rota": {
+    "lat": 36.62364,
+    "lng": -6.35997,
+    "q": "Rota, Spain"
+  },
+  "es|sa coma": {
+    "lat": 39.57715,
+    "lng": 3.37205,
+    "q": "Sa Coma, Spain"
+  },
+  "es|sa r pita": {
+    "lat": 39.36536,
+    "lng": 2.94193,
+    "q": "Sa Ràpita, Spain"
+  },
+  "es|sa roqueta": {
+    "lat": 38.732,
+    "lng": 1.4446,
+    "q": "Sa Roqueta, Spain"
+  },
+  "es|salamir": {
+    "lat": 43.57356,
+    "lng": -6.21425,
+    "q": "Salamir, Spain"
+  },
+  "es|s algar": {
+    "lat": 39.834,
+    "lng": 4.298,
+    "q": "S'Algar, Spain"
+  },
+  "es|san fernando": {
+    "lat": 36.4759,
+    "lng": -6.19817,
+    "q": "San Fernando, Spain"
+  },
+  "es|san jaime mediterr neo": {
+    "lat": 39.90633,
+    "lng": 4.07126,
+    "q": "San Jaime Mediterráneo, Spain"
+  },
+  "es|san javier": {
+    "lat": 37.80626,
+    "lng": -0.83736,
+    "q": "San Javier, Spain"
+  },
+  "es|san jos": {
+    "lat": 38.92239,
+    "lng": 1.29437,
+    "q": "San José, Spain"
+  },
+  "es|san roque": {
+    "lat": 36.20983,
+    "lng": -5.38452,
+    "q": "San Roque, Spain"
+  },
+  "es|san telmo": {
+    "lat": 37.79554,
+    "lng": -6.96756,
+    "q": "San Telmo, Spain"
+  },
+  "es|san vicente de la barquera": {
+    "lat": 43.38509,
+    "lng": -4.39934,
+    "q": "San Vicente de la Barquera, Spain"
+  },
+  "es|sant antoni de portmany": {
+    "lat": 38.98068,
+    "lng": 1.30362,
+    "q": "Sant Antoni de Portmany, Spain"
+  },
+  "es|sant elm": {
+    "lat": 39.57943,
+    "lng": 2.35065,
+    "q": "Sant Elm, Spain"
+  },
+  "es|sant joan de labritja": {
+    "lat": 39.07891,
+    "lng": 1.51397,
+    "q": "Sant Joan de Labritja, Spain"
+  },
+  "es|sant josep de sa talaia": {
+    "lat": 38.92239,
+    "lng": 1.29437,
+    "q": "Sant Josep de sa Talaia, Spain"
+  },
+  "es|sant llu s": {
+    "lat": 39.84939,
+    "lng": 4.25819,
+    "q": "Sant Lluís, Spain"
+  },
+  "es|sant tomas": {
+    "lat": 39.9175,
+    "lng": 4.03653,
+    "q": "Sant Tomas, Spain"
+  },
+  "es|santa ana": {
+    "lat": 39.30823,
+    "lng": -5.99027,
+    "q": "Santa Ana, Spain"
+  },
+  "es|santa eul ria des riu": {
+    "lat": 38.98457,
+    "lng": 1.53409,
+    "q": "Santa Eulària des Riu, Spain"
+  },
+  "es|santa margalida": {
+    "lat": 39.70143,
+    "lng": 3.10215,
+    "q": "Santa Margalida, Spain"
+  },
+  "es|santa pon a": {
+    "lat": 39.50868,
+    "lng": 2.4766,
+    "q": "Santa Ponça, Spain"
+  },
+  "es|santander": {
+    "lat": 43.46472,
+    "lng": -3.80444,
+    "q": "Santander, Spain"
+  },
+  "es|santany": {
+    "lat": 39.35461,
+    "lng": 3.12907,
+    "q": "Santanyí, Spain"
+  },
+  "es|santo a": {
+    "lat": 43.44386,
+    "lng": -3.45757,
+    "q": "Santoña, Spain"
+  },
+  "es|sanxenxo": {
+    "lat": 42.39996,
+    "lng": -8.80698,
+    "q": "Sanxenxo, Spain"
+  },
+  "es|ses covetes": {
+    "lat": 39.35521,
+    "lng": 2.97096,
+    "q": "Ses Covetes, Spain"
+  },
+  "es|ses illetes": {
+    "lat": 39.53245,
+    "lng": 2.58968,
+    "q": "ses Illetes, Spain"
+  },
+  "es|ses salines": {
+    "lat": 39.33831,
+    "lng": 3.05274,
+    "q": "Ses Salines, Spain"
+  },
+  "es|s estanyol de migjorn": {
+    "lat": 39.36151,
+    "lng": 2.91829,
+    "q": "S'Estanyol de Migjorn, Spain"
+  },
+  "es|s illot cala morlanda": {
+    "lat": 39.56239,
+    "lng": 3.37227,
+    "q": "S'Illot-Cala Morlanda, Spain"
+  },
+  "es|sol de mallorca": {
+    "lat": 39.48092,
+    "lng": 2.5251,
+    "q": "Sol de Mallorca, Spain"
+  },
+  "es|s ller": {
+    "lat": 39.76623,
+    "lng": 2.71521,
+    "q": "Sóller, Spain"
+  },
+  "es|somo": {
+    "lat": 43.45126,
+    "lng": -3.73468,
+    "q": "Somo, Spain"
+  },
+  "es|son carri": {
+    "lat": 39.58856,
+    "lng": 3.32048,
+    "q": "Son Carrió, Spain"
+  },
+  "es|son parc": {
+    "lat": 40.02318,
+    "lng": 4.16639,
+    "q": "Son Parc, Spain"
+  },
+  "es|son serra de marina": {
+    "lat": 39.73453,
+    "lng": 3.22938,
+    "q": "Son Serra de Marina, Spain"
+  },
+  "es|son servera": {
+    "lat": 39.62073,
+    "lng": 3.36008,
+    "q": "Son Servera, Spain"
+  },
+  "es|son xoriguer": {
+    "lat": 39.9293,
+    "lng": 3.8407,
+    "q": "Son Xoriguer, Spain"
+  },
+  "es|sopela": {
+    "lat": 43.37891,
+    "lng": -2.98313,
+    "q": "Sopela, Spain"
+  },
+  "es|sorvil n": {
+    "lat": 36.79505,
+    "lng": -3.26769,
+    "q": "Sorvilán, Spain"
+  },
+  "es|soto del barco": {
+    "lat": 43.53288,
+    "lng": -6.06984,
+    "q": "Soto del Barco, Spain"
+  },
+  "es|suances": {
+    "lat": 43.43341,
+    "lng": -4.04338,
+    "q": "Suances, Spain"
+  },
+  "es|sueca": {
+    "lat": 39.2026,
+    "lng": -0.31114,
+    "q": "Sueca, Spain"
+  },
+  "es|tagle": {
+    "lat": 43.42345,
+    "lng": -4.07846,
+    "q": "Tagle, Spain"
+  },
+  "es|tapia de casariego": {
+    "lat": 43.57019,
+    "lng": -6.94383,
+    "q": "Tapia de Casariego, Spain"
+  },
+  "es|tarifa": {
+    "lat": 36.01393,
+    "lng": -5.60695,
+    "q": "Tarifa, Spain"
+  },
+  "es|valdovi o": {
+    "lat": 43.6,
+    "lng": -8.13333,
+    "q": "Valdoviño, Spain"
+  },
+  "es|val ncia": {
+    "lat": 39.47391,
+    "lng": -0.37966,
+    "q": "València, Spain"
+  },
+  "es|valencia": {
+    "lat": 39.47391,
+    "lng": -0.37966,
+    "q": "Valencia, Spain"
+  },
+  "es|valldemossa": {
+    "lat": 39.71042,
+    "lng": 2.6223,
+    "q": "Valldemossa, Spain"
+  },
+  "es|vejer de la frontera": {
+    "lat": 36.25213,
+    "lng": -5.96717,
+    "q": "Vejer de la Frontera, Spain"
+  },
+  "es|vera": {
+    "lat": 37.24345,
+    "lng": -1.85905,
+    "q": "Vera, Spain"
+  },
+  "es|vila da area": {
+    "lat": 43.51579,
+    "lng": -8.31468,
+    "q": "Vila Da Area, Spain"
+  },
+  "es|vilagarc a de arousa": {
+    "lat": 42.59631,
+    "lng": -8.76426,
+    "q": "Vilagarcía de Arousa, Spain"
+  },
+  "es|vilanova de arousa": {
+    "lat": 42.564,
+    "lng": -8.82797,
+    "q": "Vilanova de Arousa, Spain"
+  },
+  "es|villajoyosa": {
+    "lat": 38.50754,
+    "lng": -0.23346,
+    "q": "Villajoyosa, Spain"
+  },
+  "es|villaviciosa": {
+    "lat": 43.48126,
+    "lng": -5.43574,
+    "q": "Villaviciosa, Spain"
+  },
+  "es|xove": {
+    "lat": 43.68656,
+    "lng": -7.5113,
+    "q": "Xove, Spain"
+  },
+  "es|zahara de los atunes": {
+    "lat": 36.1369,
+    "lng": -5.84591,
+    "q": "Zahara de los Atunes, Spain"
+  },
+  "es|costa adeje": {
+    "lat": 28.07774,
+    "lng": -16.72969,
+    "q": "Costa Adeje, Spain"
+  },
+  "es|puerto de la cruz": {
+    "lat": 28.41686,
+    "lng": -16.55085,
+    "q": "Puerto de la Cruz, Spain"
+  },
+  "es|el m dano": {
+    "lat": 28.04615,
+    "lng": -16.53631,
+    "q": "El Médano, Spain"
+  },
+  "es|puerto del carmen": {
+    "lat": 28.92313,
+    "lng": -13.66579,
+    "q": "Puerto del Carmen, Spain"
+  },
+  "es|benidorm": {
+    "lat": 38.53816,
+    "lng": -0.13098,
+    "q": "Benidorm, Spain"
+  },
+  "es|patalavaca": {
+    "lat": 27.7699,
+    "lng": -15.6896,
+    "q": "Patalavaca, Spain"
+  },
+  "es|santiago del teide": {
+    "lat": 28.294,
+    "lng": -16.81618,
+    "q": "Santiago del Teide, Spain"
+  },
+  "es|sant sebasti": {
+    "lat": 41.66667,
+    "lng": 2.13333,
+    "q": "Sant Sebastià, Spain"
+  },
+  "es|madrid": {
+    "lat": 40.4165,
+    "lng": -3.70256,
+    "q": "Madrid, Spain"
+  },
+  "es|calpe": {
+    "lat": 38.6447,
+    "lng": 0.0445,
+    "q": "Calpe, Spain"
+  },
+  "es|santa pola": {
+    "lat": 38.19165,
+    "lng": -0.5658,
+    "q": "Santa Pola, Spain"
+  },
+  "es|fuerteventura": {
+    "lat": 28.38113,
+    "lng": -14.03074,
+    "q": "Fuerteventura, Spain"
+  },
+  "es|santa cruz de tenerife": {
+    "lat": 28.46824,
+    "lng": -16.25462,
+    "q": "Santa Cruz de Tenerife, Spain"
+  },
+  "es|san crist bal de la laguna": {
+    "lat": 28.4853,
+    "lng": -16.32014,
+    "q": "San Cristóbal de La Laguna, Spain"
+  },
+  "es|mog n": {
+    "lat": 27.88385,
+    "lng": -15.72538,
+    "q": "Mogán, Spain"
+  },
+  "es|los gigantes": {
+    "lat": 28.24361,
+    "lng": -16.84153,
+    "q": "Los Gigantes, Spain"
+  },
+  "es|seville": {
+    "lat": 37.38283,
+    "lng": -5.97317,
+    "q": "Seville, Spain"
+  },
+  "es|grazalema": {
+    "lat": 36.76018,
+    "lng": -5.36839,
+    "q": "Grazalema, Spain"
+  },
+  "es|tenerife": {
+    "lat": 28.46824,
+    "lng": -16.25462,
+    "q": "Tenerife, Spain"
+  },
+  "es|santa cruz de la palma": {
+    "lat": 28.68351,
+    "lng": -17.76421,
+    "q": "Santa Cruz de La Palma, Spain"
+  },
+  "es|garachico": {
+    "lat": 28.37365,
+    "lng": -16.76342,
+    "q": "Garachico, Spain"
+  },
+  "es|arguineguin": {
+    "lat": 27.75647,
+    "lng": -15.68079,
+    "q": "Arguineguin, Spain"
+  },
+  "es|conil de la frontera": {
+    "lat": 36.27719,
+    "lng": -6.0885,
+    "q": "Conil de la Frontera, Spain"
+  },
+  "es|tacoronte": {
+    "lat": 28.47688,
+    "lng": -16.41016,
+    "q": "Tacoronte, Spain"
+  },
+  "es|la orotava": {
+    "lat": 28.39076,
+    "lng": -16.52309,
+    "q": "La Orotava, Spain"
+  },
+  "es|calafell": {
+    "lat": 41.19997,
+    "lng": 1.5683,
+    "q": "Calafell, Spain"
+  },
+  "es|candelaria": {
+    "lat": 28.3548,
+    "lng": -16.37268,
+    "q": "Candelaria, Spain"
+  },
+  "es|san bartolom de tirajana": {
+    "lat": 27.92481,
+    "lng": -15.57329,
+    "q": "San Bartolomé de Tirajana, Spain"
+  },
+  "es|santa mar a del mar": {
+    "lat": 28.4253,
+    "lng": -16.30363,
+    "q": "Santa María del Mar, Spain"
+  },
+  "es|los llanos de aridane": {
+    "lat": 28.65851,
+    "lng": -17.91821,
+    "q": "Los Llanos de Aridane, Spain"
+  },
+  "es|zahara": {
+    "lat": 36.84055,
+    "lng": -5.39128,
+    "q": "Zahara, Spain"
+  },
+  "es|la caleta": {
+    "lat": 36.75471,
+    "lng": -4.07067,
+    "q": "La Caleta, Spain"
+  },
+  "es|guardamar del segura": {
+    "lat": 38.09031,
+    "lng": -0.65556,
+    "q": "Guardamar del Segura, Spain"
+  },
+  "es|arona": {
+    "lat": 28.09962,
+    "lng": -16.68102,
+    "q": "Arona, Spain"
+  },
+  "es|cala vadella": {
+    "lat": 38.91307,
+    "lng": 1.22246,
+    "q": "Cala Vadella, Spain"
+  },
+  "es|alicante": {
+    "lat": 38.34517,
+    "lng": -0.48149,
+    "q": "Alicante, Spain"
+  },
+  "es|almu ecar": {
+    "lat": 36.73393,
+    "lng": -3.69072,
+    "q": "Almuñecar, Spain"
+  },
+  "es|torrelaguna": {
+    "lat": 40.82764,
+    "lng": -3.53683,
+    "q": "Torrelaguna, Spain"
+  },
+  "es|san sebasti n de la gomera": {
+    "lat": 28.09163,
+    "lng": -17.11331,
+    "q": "San Sebastián de la Gomera, Spain"
+  },
+  "es|medina sidonia": {
+    "lat": 36.45695,
+    "lng": -5.92717,
+    "q": "Medina Sidonia, Spain"
+  },
+  "es|el hierro": {
+    "lat": 27.74196,
+    "lng": -17.9993,
+    "q": "El Hierro, Spain"
+  },
+  "es|tijarafe": {
+    "lat": 28.7,
+    "lng": -17.95,
+    "q": "Tijarafe, Spain"
+  },
+  "es|prado del rey": {
+    "lat": 36.78756,
+    "lng": -5.55589,
+    "q": "Prado del Rey, Spain"
+  },
+  "es|sestao": {
+    "lat": 43.30975,
+    "lng": -3.00716,
+    "q": "Sestao, Spain"
+  },
+  "es|los realejos": {
+    "lat": 28.38487,
+    "lng": -16.58275,
+    "q": "Los Realejos, Spain"
+  },
+  "es|mallorca": {
+    "lat": 39.6078,
+    "lng": 3.01197,
+    "q": "Mallorca, Spain"
+  },
+  "es|burgos": {
+    "lat": 42.34106,
+    "lng": -3.70184,
+    "q": "Burgos, Spain"
+  },
+  "es|la mamola": {
+    "lat": 36.74711,
+    "lng": -3.27897,
+    "q": "La Mamola, Spain"
+  },
+  "es|callao salvaje": {
+    "lat": 28.13,
+    "lng": -16.7826,
+    "q": "Callao Salvaje, Spain"
+  },
+  "es|mojacar": {
+    "lat": 37.1402,
+    "lng": -1.85102,
+    "q": "Mojacar, Spain"
+  },
+  "es|villamart n": {
+    "lat": 36.85979,
+    "lng": -5.64485,
+    "q": "Villamartín, Spain"
+  },
+  "es|toledo": {
+    "lat": 39.8581,
+    "lng": -4.02263,
+    "q": "Toledo, Spain"
+  },
+  "es|peniscola": {
+    "lat": 40.3574,
+    "lng": 0.40692,
+    "q": "Peniscola, Spain"
+  },
+  "es|huesca": {
+    "lat": 42.13615,
+    "lng": -0.4087,
+    "q": "Huesca, Spain"
+  },
+  "es|calella de palafrugell": {
+    "lat": 41.89199,
+    "lng": 3.18659,
+    "q": "Calella de Palafrugell, Spain"
+  },
+  "es|torrelavega": {
+    "lat": 43.34943,
+    "lng": -4.04785,
+    "q": "Torrelavega, Spain"
+  },
+  "es|girona": {
+    "lat": 41.98311,
+    "lng": 2.82493,
+    "q": "Girona, Spain"
+  },
+  "es|algar": {
+    "lat": 36.65748,
+    "lng": -5.65558,
+    "q": "Algar, Spain"
+  },
+  "es|pe arrubia": {
+    "lat": 38.42627,
+    "lng": -2.18381,
+    "q": "Peñarrubia, Spain"
+  },
+  "es|la peral": {
+    "lat": 43.48333,
+    "lng": -6.0,
+    "q": "La Peral, Spain"
+  },
+  "es|lanzarote": {
+    "lat": 29.01,
+    "lng": -13.641,
+    "q": "Lanzarote, Spain"
+  },
+  "es|tarragona": {
+    "lat": 41.11905,
+    "lng": 1.24544,
+    "q": "Tarragona, Spain"
+  },
+  "es|el sauzal": {
+    "lat": 28.46667,
+    "lng": -16.41667,
+    "q": "El Sauzal, Spain"
+  },
+  "es|la manga del mar menor": {
+    "lat": 37.64129,
+    "lng": -0.71651,
+    "q": "La Manga del Mar Menor, Spain"
+  },
+  "es|orihuela costa": {
+    "lat": 37.96525,
+    "lng": -0.73196,
+    "q": "Orihuela Costa, Spain"
+  },
+  "es|montejaque": {
+    "lat": 36.73684,
+    "lng": -5.2499,
+    "q": "Montejaque, Spain"
+  },
+  "es|moj car": {
+    "lat": 37.1402,
+    "lng": -1.85102,
+    "q": "Mojácar, Spain"
+  },
+  "es|mula": {
+    "lat": 38.04095,
+    "lng": -1.49014,
+    "q": "Mula, Spain"
+  },
+  "es|calasparra": {
+    "lat": 38.22997,
+    "lng": -1.69986,
+    "q": "Calasparra, Spain"
+  },
+  "es|karting club tenerife": {
+    "lat": 28.0518,
+    "lng": -16.65109,
+    "q": "Karting Club Tenerife, Spain"
+  },
+  "es|oropesa del mar": {
+    "lat": 40.09134,
+    "lng": 0.14115,
+    "q": "Oropesa del Mar, Spain"
+  },
+  "es|villafranca del bierzo": {
+    "lat": 42.60601,
+    "lng": -6.81069,
+    "q": "Villafranca del Bierzo, Spain"
+  },
+  "es|benalaur a": {
+    "lat": 36.59445,
+    "lng": -5.26099,
+    "q": "Benalauría, Spain"
+  },
+  "es|tresviso": {
+    "lat": 43.25753,
+    "lng": -4.66768,
+    "q": "Tresviso, Spain"
+  },
+  "es|vilafranca": {
+    "lat": 41.34618,
+    "lng": 1.69713,
+    "q": "Vilafranca, Spain"
+  },
+  "es|olvera": {
+    "lat": 36.93418,
+    "lng": -5.26678,
+    "q": "Olvera, Spain"
+  },
+  "es|alcal de los gazules": {
+    "lat": 36.46212,
+    "lng": -5.72382,
+    "q": "Alcalá de los Gazules, Spain"
+  },
+  "es|benalup casas viejas": {
+    "lat": 36.34375,
+    "lng": -5.8128,
+    "q": "Benalup-Casas Viejas, Spain"
+  },
+  "es|fr as": {
+    "lat": 42.76225,
+    "lng": -3.29394,
+    "q": "Frías, Spain"
+  },
+  "es|bornos": {
+    "lat": 36.81677,
+    "lng": -5.74448,
+    "q": "Bornos, Spain"
+  },
+  "es|cristosende": {
+    "lat": 42.38682,
+    "lng": -7.48784,
+    "q": "Cristosende, Spain"
+  },
+  "es|villaluenga del rosario": {
+    "lat": 36.69644,
+    "lng": -5.38601,
+    "q": "Villaluenga del Rosario, Spain"
+  },
+  "es|anento": {
+    "lat": 41.06958,
+    "lng": -1.33375,
+    "q": "Anento, Spain"
+  },
+  "es|malpica de berganti os": {
+    "lat": 43.3228,
+    "lng": -8.81052,
+    "q": "Malpica de Bergantiños, Spain"
+  },
+  "es|granada": {
+    "lat": 37.18817,
+    "lng": -3.60667,
+    "q": "Granada, Spain"
+  },
+  "es|almerimar": {
+    "lat": 36.70063,
+    "lng": -2.78984,
+    "q": "Almerimar, Spain"
+  },
+  "es|el gastor": {
+    "lat": 36.85478,
+    "lng": -5.32334,
+    "q": "El Gastor, Spain"
+  },
+  "es|paterna de rivera": {
+    "lat": 36.52246,
+    "lng": -5.86578,
+    "q": "Paterna de Rivera, Spain"
+  },
+  "es|setenil de las bodegas": {
+    "lat": 36.86397,
+    "lng": -5.18177,
+    "q": "Setenil de las Bodegas, Spain"
+  },
+  "es|algodonales": {
+    "lat": 36.88044,
+    "lng": -5.40536,
+    "q": "Algodonales, Spain"
+  },
+  "pt|portugal": {
+    "lat": 39.6945,
+    "lng": -8.13057,
+    "q": "Portugal, Portugal"
+  },
+  "pt|faro": {
+    "lat": 37.01869,
+    "lng": -7.92716,
+    "q": "Faro, Portugal"
+  },
+  "pt|costa da caparica": {
+    "lat": 38.64134,
+    "lng": -9.23221,
+    "q": "Costa da Caparica, Portugal"
+  },
+  "pt|ribeira brava": {
+    "lat": 32.67483,
+    "lng": -17.06288,
+    "q": "Ribeira Brava, Portugal"
+  },
+  "pt|seixal": {
+    "lat": 38.64008,
+    "lng": -9.10141,
+    "q": "Seixal, Portugal"
+  },
+  "pt|costa de caparica": {
+    "lat": 38.64458,
+    "lng": -9.23556,
+    "q": "Costa de Caparica, Portugal"
+  },
+  "pt|ponta delgada": {
+    "lat": 37.73952,
+    "lng": -25.66874,
+    "q": "Ponta Delgada, Portugal"
+  },
+  "pt|funchal": {
+    "lat": 32.66568,
+    "lng": -16.92547,
+    "q": "Funchal, Portugal"
+  },
+  "pt|sesimbra": {
+    "lat": 38.44451,
+    "lng": -9.10149,
+    "q": "Sesimbra, Portugal"
+  },
+  "es|badalona": {
+    "lat": 41.45004,
+    "lng": 2.24741,
+    "q": "Badalona, Spain"
+  },
+  "es|matar": {
+    "lat": 41.54211,
+    "lng": 2.4445,
+    "q": "Mataró, Spain"
+  },
+  "es|vallcarca": {
+    "lat": 41.24022,
+    "lng": 1.86098,
+    "q": "Vallcarca, Spain"
+  },
+  "es|vilanova i la geltr": {
+    "lat": 41.22392,
+    "lng": 1.72511,
+    "q": "Vilanova i la Geltrú, Spain"
+  },
+  "es|llafranc": {
+    "lat": 41.89448,
+    "lng": 3.19462,
+    "q": "Llafranc, Spain"
+  },
+  "es|palam s": {
+    "lat": 41.84843,
+    "lng": 3.12912,
+    "q": "Palamós, Spain"
+  },
+  "es|roses": {
+    "lat": 42.26199,
+    "lng": 3.17689,
+    "q": "Roses, Spain"
+  },
+  "es|cambrils": {
+    "lat": 41.06997,
+    "lng": 1.05949,
+    "q": "Cambrils, Spain"
+  },
+  "es|segur de calafell": {
+    "lat": 41.19577,
+    "lng": 1.60624,
+    "q": "Segur de Calafell, Spain"
+  },
+  "es|torredembarra": {
+    "lat": 41.14505,
+    "lng": 1.39861,
+    "q": "Torredembarra, Spain"
+  },
+  "es|la r pita": {
+    "lat": 41.3,
+    "lng": 1.65,
+    "q": "la Ràpita, Spain"
+  },
+  "es|a gandara": {
+    "lat": 43.49174,
+    "lng": -8.20065,
+    "q": "A Gándara, Spain"
+  },
+  "es|aguilas": {
+    "lat": 37.4063,
+    "lng": -1.58289,
+    "q": "Águilas, Spain"
+  },
+  "es|alcudia": {
+    "lat": 39.85316,
+    "lng": 3.12138,
+    "q": "Alcúdia, Spain"
+  },
+  "es|almeria": {
+    "lat": 36.83814,
+    "lng": -2.45974,
+    "q": "Almería, Spain"
+  },
+  "es|arta": {
+    "lat": 39.69315,
+    "lng": 3.34979,
+    "q": "Artà, Spain"
+  },
+  "es|aviles": {
+    "lat": 43.55473,
+    "lng": -5.92483,
+    "q": "Avilés, Spain"
+  },
+  "es|benalmadena": {
+    "lat": 36.5961,
+    "lng": -4.57267,
+    "q": "Benalmádena, Spain"
+  },
+  "es|cadiz": {
+    "lat": 36.52672,
+    "lng": -6.2891,
+    "q": "Cádiz, Spain"
+  },
+  "es|cala santanyi": {
+    "lat": 39.33005,
+    "lng": 3.14552,
+    "q": "Cala Santanyí, Spain"
+  },
+  "es|callosa d en sarria": {
+    "lat": 38.65,
+    "lng": -0.11667,
+    "q": "Callosa d'en Sarrià, Spain"
+  },
+  "es|calvia": {
+    "lat": 39.5657,
+    "lng": 2.50621,
+    "q": "Calvià, Spain"
+  },
+  "es|camarinas": {
+    "lat": 43.13115,
+    "lng": -9.18172,
+    "q": "Camariñas, Spain"
+  },
+  "es|carino": {
+    "lat": 43.74134,
+    "lng": -7.86715,
+    "q": "Cariño, Spain"
+  },
+  "es|cas catala": {
+    "lat": 39.54711,
+    "lng": 2.59614,
+    "q": "Cas Català, Spain"
+  },
+  "es|cobreces": {
+    "lat": 43.38745,
+    "lng": -4.21361,
+    "q": "Cóbreces, Spain"
+  },
+  "es|colonia de sant jordi": {
+    "lat": 39.3181,
+    "lng": 2.99197,
+    "q": "Colònia de Sant Jordi, Spain"
+  },
+  "es|corcubion": {
+    "lat": 42.94414,
+    "lng": -9.1926,
+    "q": "Corcubión, Spain"
+  },
+  "es|deia": {
+    "lat": 39.74806,
+    "lng": 2.64823,
+    "q": "Deià, Spain"
+  },
+  "es|el puerto de santa maria": {
+    "lat": 36.59389,
+    "lng": -6.23298,
+    "q": "El Puerto de Santa María, Spain"
+  },
+  "es|elgoibar": {
+    "lat": 43.21601,
+    "lng": -2.41334,
+    "q": "Elgóibar, Spain"
+  },
+  "es|es calo": {
+    "lat": 38.6772,
+    "lng": 1.51628,
+    "q": "Es Caló, Spain"
+  },
+  "es|barranan": {
+    "lat": 43.3,
+    "lng": -8.53333,
+    "q": "Barrañan, Spain"
+  },
+  "es|gijon": {
+    "lat": 43.53573,
+    "lng": -5.66152,
+    "q": "Gijón, Spain"
+  },
+  "es|la coruna": {
+    "lat": 43.37135,
+    "lng": -8.396,
+    "q": "La Coruña, Spain"
+  },
+  "es|mahon": {
+    "lat": 39.88853,
+    "lng": 4.26583,
+    "q": "Mahón, Spain"
+  },
+  "es|malaga": {
+    "lat": 36.72016,
+    "lng": -4.42034,
+    "q": "Málaga, Spain"
+  },
+  "es|mao": {
+    "lat": 39.88853,
+    "lng": 4.26583,
+    "q": "Maó, Spain"
+  },
+  "es|mazarron": {
+    "lat": 37.5992,
+    "lng": -1.31493,
+    "q": "Mazarrón, Spain"
+  },
+  "es|muros de nalon": {
+    "lat": 43.54277,
+    "lng": -6.10348,
+    "q": "Muros de Nalón, Spain"
+  },
+  "pt|nazare": {
+    "lat": 39.60289,
+    "lng": -9.06836,
+    "q": "Nazaré, Portugal"
+  },
+  "es|nigran": {
+    "lat": 42.14153,
+    "lng": -8.80656,
+    "q": "Nigrán, Spain"
+  },
+  "es|nijar": {
+    "lat": 36.96655,
+    "lng": -2.20595,
+    "q": "Níjar, Spain"
+  },
+  "es|banugues": {
+    "lat": 43.63333,
+    "lng": -5.81667,
+    "q": "Bañugues, Spain"
+  },
+  "es|pollenca": {
+    "lat": 39.87678,
+    "lng": 3.01626,
+    "q": "Pollença, Spain"
+  },
+  "pt|portimao": {
+    "lat": 37.13856,
+    "lng": -8.53775,
+    "q": "Portimão, Portugal"
+  },
+  "es|sa rapita": {
+    "lat": 39.36536,
+    "lng": 2.94193,
+    "q": "Sa Ràpita, Spain"
+  },
+  "es|san jaime mediterraneo": {
+    "lat": 39.90633,
+    "lng": 4.07126,
+    "q": "San Jaime Mediterráneo, Spain"
+  },
+  "es|san jose": {
+    "lat": 38.92239,
+    "lng": 1.29437,
+    "q": "San José, Spain"
+  },
+  "es|sant lluis": {
+    "lat": 39.84939,
+    "lng": 4.25819,
+    "q": "Sant Lluís, Spain"
+  },
+  "es|santa eularia des riu": {
+    "lat": 38.98457,
+    "lng": 1.53409,
+    "q": "Santa Eulària des Riu, Spain"
+  },
+  "es|santa ponca": {
+    "lat": 39.50868,
+    "lng": 2.4766,
+    "q": "Santa Ponça, Spain"
+  },
+  "es|santanyi": {
+    "lat": 39.35461,
+    "lng": 3.12907,
+    "q": "Santanyí, Spain"
+  },
+  "es|santona": {
+    "lat": 43.44386,
+    "lng": -3.45757,
+    "q": "Santoña, Spain"
+  },
+  "es|soller": {
+    "lat": 39.76623,
+    "lng": 2.71521,
+    "q": "Sóller, Spain"
+  },
+  "es|son carrio": {
+    "lat": 39.58856,
+    "lng": 3.32048,
+    "q": "Son Carrió, Spain"
+  },
+  "es|sorvilan": {
+    "lat": 36.79505,
+    "lng": -3.26769,
+    "q": "Sorvilán, Spain"
+  },
+  "es|valdovino": {
+    "lat": 43.6,
+    "lng": -8.13333,
+    "q": "Valdoviño, Spain"
+  },
+  "es|vilagarcia de arousa": {
+    "lat": 42.59631,
+    "lng": -8.76426,
+    "q": "Vilagarcía de Arousa, Spain"
+  },
+  "es|el medano": {
+    "lat": 28.04615,
+    "lng": -16.53631,
+    "q": "El Médano, Spain"
+  },
+  "es|sant sebastia": {
+    "lat": 41.66667,
+    "lng": 2.13333,
+    "q": "Sant Sebastià, Spain"
+  },
+  "es|san cristobal de la laguna": {
+    "lat": 28.4853,
+    "lng": -16.32014,
+    "q": "San Cristóbal de La Laguna, Spain"
+  },
+  "es|mogan": {
+    "lat": 27.88385,
+    "lng": -15.72538,
+    "q": "Mogán, Spain"
+  },
+  "es|san bartolome de tirajana": {
+    "lat": 27.92481,
+    "lng": -15.57329,
+    "q": "San Bartolomé de Tirajana, Spain"
+  },
+  "es|almunecar": {
+    "lat": 36.73393,
+    "lng": -3.69072,
+    "q": "Almuñecar, Spain"
+  },
+  "es|san sebastian de la gomera": {
+    "lat": 28.09163,
+    "lng": -17.11331,
+    "q": "San Sebastián de la Gomera, Spain"
+  },
+  "es|villamartin": {
+    "lat": 36.85979,
+    "lng": -5.64485,
+    "q": "Villamartín, Spain"
+  },
+  "es|penarrubia": {
+    "lat": 38.42627,
+    "lng": -2.18381,
+    "q": "Peñarrubia, Spain"
+  },
+  "es|benalauria": {
+    "lat": 36.59445,
+    "lng": -5.26099,
+    "q": "Benalauría, Spain"
+  },
+  "es|alcala de los gazules": {
+    "lat": 36.46212,
+    "lng": -5.72382,
+    "q": "Alcalá de los Gazules, Spain"
+  },
+  "es|frias": {
+    "lat": 42.76225,
+    "lng": -3.29394,
+    "q": "Frías, Spain"
+  },
+  "es|malpica de bergantinos": {
+    "lat": 43.3228,
+    "lng": -8.81052,
+    "q": "Malpica de Bergantiños, Spain"
+  },
+  "es|las americas": {
+    "lat": 28.06403,
+    "lng": -16.73012,
+    "q": "Las Americas, Spain"
+  },
+  "es|canary islands": {
+    "lat": 28.0,
+    "lng": -15.5,
+    "q": "Canary Islands, Spain"
+  },
+  "es|punta del hidalgo": {
+    "lat": 28.56202,
+    "lng": -16.33254,
+    "q": "Punta del Hidalgo, Spain"
+  },
+  "es|la gomera": {
+    "lat": 28.1,
+    "lng": -17.13333,
+    "q": "La Gomera, Spain"
+  },
+  "es|parque santiago": {
+    "lat": 39.20306,
+    "lng": -2.15796,
+    "q": "Parque Santiago, Spain"
+  },
+  "pt|lagos": {
+    "lat": 37.10202,
+    "lng": -8.67422,
+    "q": "Lagos, Portugal"
+  },
+  "pt|porto santo": {
+    "lat": 33.07339,
+    "lng": -16.34998,
+    "q": "Porto Santo, Portugal"
+  },
+  "es|fao": {
+    "lat": 42.85,
+    "lng": -8.28333,
+    "q": "Fão, Spain"
+  },
+  "es|puerto de mazarron": {
+    "lat": 37.56138,
+    "lng": -1.25639,
+    "q": "Puerto de Mazarrón, Spain"
+  },
+  "es|sines": {
+    "lat": 42.43333,
+    "lng": -8.76667,
+    "q": "Sines, Spain"
+  },
+  "es|las palmas": {
+    "lat": 28.10178,
+    "lng": -15.41573,
+    "q": "Las Palmas, Spain"
+  }
+}
